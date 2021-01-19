@@ -17,3 +17,7 @@ h1 {
   padding: 20px;
   border-bottom: solid 5px green;
 }
+
+.white-text {
+  color: white;
+}
