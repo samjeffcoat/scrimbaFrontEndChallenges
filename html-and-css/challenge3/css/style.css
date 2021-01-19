@@ -21,3 +21,21 @@ h1 {
 .white-text {
   color: white;
 }
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+.columns {
+  display: flex;
+  /* margin: 10px; */
+}
+.main-content {
+  width: 65%;
+  margin-right: 5%;
+}
+.sidebar {
+  width: 30%;
+}
+.col-right {
+  margin-left: 25px;
+}
