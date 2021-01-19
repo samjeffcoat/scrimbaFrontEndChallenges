@@ -9,6 +9,13 @@ h1 {
   margin-top: 0;
   padding: 25px 0;
 }
+a {
+  color: #281b2d;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+}
 
 .subhead {
   background-color: #281b2d;
@@ -16,6 +23,7 @@ h1 {
   font-size: 48px;
   padding: 20px;
   border-bottom: solid 5px green;
+  margin-top: 0;
 }
 
 .white-text {
@@ -35,6 +43,12 @@ h1 {
 }
 .sidebar {
   width: 30%;
+  padding: 15px;
+  background-color: #9ae84f;
+  box-shadow: 10px 5px 5px gray;
+}
+.source {
+  font-size: 10px;
 }
 .col-right {
   margin-left: 25px;
